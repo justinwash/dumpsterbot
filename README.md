@@ -1,2 +1,2 @@
-# Lunchinator
-A Discord bot that helps us make bad decisions
+# Dumpsterbot
+A Discord bot for our game jam planning server
